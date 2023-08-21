@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning CSS,HTML5, SASS, repository designs and more
 - 💞️ I’m looking to collaborate on my bestfriend febbie who introduce & inspire me in coding - currently I'm working with Dorji travel service website
 - 📫 How to reach me at dreahervias93@gmail.com
+- Current project : www.nextournepal.com
 
 <!---
 Wheresandee/Wheresandee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
