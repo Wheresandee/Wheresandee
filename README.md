@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andee
 - 👀 I’m interested in Digital Arts, Vector, PNG,SVG, EPS, Crafts, CSS, HTML5, SASS, Foods and Outdoors!
 - 🌱 I’m currently learning CSS,HTML5,SASS, repository designs and more !
-- 💞️ I’m happy & eager to collaborate with my bestfriend febbie who introduce & inspire me in coding - currently we are working with Dorji travel service website nextour nepal! 
+- 💞️ I’m happy to collaborate with my bestfriend febbie who introduce & inspire me in coding | Currently, we are working with Dorji travel service website nextour nepal 
 - 📫 How to reach me at dreahervias93@gmail.com or reach us @andeecraftsonline@gmail.com / info.nextournepal@gmail.com
 - Current project : www.nextournepal.com
 
